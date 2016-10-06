@@ -216,6 +216,9 @@
 <module>gameoflife-core3</module>
 <module>gameoflife-core4</module>
         <module>gameoflife-web</module>
+<module>gameoflife-web2</module>
+<module>gameoflife-web3</module>
+<module>gameoflife-web4</module>
     </modules>
     <profiles>
         <profile>
